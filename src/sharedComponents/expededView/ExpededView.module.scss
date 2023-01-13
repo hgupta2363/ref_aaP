@@ -1,0 +1,16 @@
+.expeded_view{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   cursor: pointer;
+   
+}
+.header{
+    font-size: 18px;
+    font-weight: 400;
+    color:"#293671"
+
+}
+.header:hover{
+    color: rgb(49, 49, 146);
+}
